@@ -91,17 +91,26 @@ Transaction Confirmation
 
 ## Developer Documentation
 
-Documentation in this repository will cover:
+### Architecture & System Design
 
-- Technical Overview
-- System Architecture
-- API Reference
-- Wallet Integration
-- Reward System
-- Smart Contract Specification
-- Withdrawal Flow
-- Security Considerations
-- Error Handling
+- [Technical Overview](docs/technical-overview.md)
+- [System Architecture](docs/system-architecture.md)
+
+### API & Integration
+
+- [API Reference](docs/api-reference.md)
+- [Wallet Integration](docs/wallet-integration.md)
+- [Rewards System](docs/rewards-system.md)
+
+### Web3 & Smart Contracts
+
+- [Smart Contract / Solana Program Specification](docs/smart-contract-specification.md)
+- [Withdrawal Flow](docs/withdrawal-flow.md)
+
+### Security & Reliability
+
+- [Security Considerations](docs/security-considerations.md)
+- [Error Handling](docs/error-handling.md)
 
 ## Documentation Status
 
